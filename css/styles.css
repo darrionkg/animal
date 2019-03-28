@@ -1,3 +1,11 @@
-#story {
+#showTiger {
+  display: none;
+}
+
+#showSloth {
+  display: none;
+}
+
+#showPython {
   display: none;
 }
